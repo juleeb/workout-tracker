@@ -1,1 +1,29 @@
 # workout-tracker
+About the Project:
+
+A fitness application for users to view, add, create, and track workout.
+
+Screenshot of Application:
+
+<a href="assets/process.mp4">Video Link</a>
+
+Description of Project:
+
+-MongoDB
+
+-Javascript
+
+-Node.js
+  
+    -express
+   
+    -mongoose
+
+Installation and Application Start Guide for Local Usage:
+
+1. Run npm install to install all dependencies.
+2. Run node server.js on terminal/bash to run the server.
+3. Type localhost:3000 on web brower to  start application.
+
+Deployed Link on Heroku:
+
