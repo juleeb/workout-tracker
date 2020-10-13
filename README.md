@@ -5,7 +5,13 @@ A fitness application for users to view, add, create, and track workout.
 
 Screenshot of Application:
 
-<a href="assets/process.mp4">Video Link</a>
+Main Page
+
+<img src="image/main.png" width="600" height="300">
+
+Stats Page
+
+<img src="image/stat.png" width="600" height="300">
 
 Description of Project:
 
@@ -26,4 +32,6 @@ Installation and Application Start Guide for Local Usage:
 3. Type localhost:3000 on web brower to  start application.
 
 Deployed Link on Heroku:
+
+https://jb-workout-tracker-app.herokuapp.com/
 
